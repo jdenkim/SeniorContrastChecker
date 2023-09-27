@@ -21,7 +21,7 @@
     <img alt="Download on the iOS App Store" title="iOS" src="http://i.imgur.com/0n2zqHD.png" height="50">
   </a>
 
-  <a href="http://www.youtube.com">
+  <a href="https://youtu.be/AL_ZHFDrRIg?si=DWvntaoxm-jHAYlN">
     <img alt="VisionOS demo video on Youtube" title="VisionOS" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" height="50">
   </a>
 </p>
