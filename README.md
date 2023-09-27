@@ -1,23 +1,28 @@
 <h1 align="center"> Senior contrast checker </h1> <br>
 <p align="center">
 <!--   <a href="https://gitpoint.co/"> -->
-    <img alt="Senior Contrast checker logo" title="Senior Contrast checker" src="https://github.com/jdenkim/SeniorContrastChecker-MacOS-iOS-VisionOS/blob/main/SeniorContrastChecker/App%20Store.png" width="450">
+    <img alt="Senior Contrast checker logo" title="Senior Contrast checker" src="https://github.com/jdenkim/SeniorContrastChecker-MacOS-iOS-VisionOS/blob/main/SeniorContrastChecker/App%20Store.png" width="300">
 
   </a>
 </p>
 
-
+ 
 <p align="center">
-  GitHub in your pocket. Built with React Native.
+  Built with Xcode 15.0 beta 7 (15A5229h). Experience it on MacOS, iOS, and VisionOS.
 </p>
 
 <p align="center">
-  <a href="https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8">
-    <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
+
+  <a href="https://apps.apple.com/us/app/seniorcontrastchecker/id6466521008?mt=12">
+    <img alt="Download on the Mac App Store" title="MacOS" src="http://i.imgur.com/0n2zqHD.png" height="50">
   </a>
 
-  <a href="https://play.google.com/store/apps/details?id=com.gitpoint">
-    <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
+  <a href="https://apps.apple.com/us/app/iosseniorcontrastchecker/id6467032698">
+    <img alt="Download on the iOS App Store" title="iOS" src="http://i.imgur.com/0n2zqHD.png" height="50">
+  </a>
+
+  <a href="http://www.youtube.com">
+    <img alt="VisionOS demo video on Youtube" title="VisionOS" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" height="50">
   </a>
 </p>
 
@@ -28,26 +33,23 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Feedback](#feedback)
-- [Contributors](#contributors)
 - [Build Process](#build-process)
-- [Backers](#backers-)
-- [Sponsors](#sponsors-)
 - [Acknowledgments](#acknowledgments)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
 
-[![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
+<!--[![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
 [![Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)](https://coveralls.io/github/gitpoint/git-point)
 [![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
-[![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
+[![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)-->
 
-View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
+Welcome to the "Senior Contrast Checker" documentation. This document provides an in-depth look at our app, designed to ensure web and app content is accessible and readable for the broader senior population. In this guide, you'll discover the app's features, learn how to use it effectively, and find information on how to contribute and provide feedback. We appreciate your interest in improving digital accessibility for seniors.
 
-**Available for both iOS and Android.**
+**Available for both MacOS, iOS and VisionOS.**
 
 <p align="center">
   <img src = "http://i.imgur.com/HowF6aM.png" width=350>
@@ -55,17 +57,11 @@ View repository and user information, control your notifications and even manage
 
 ## Features
 
-A few of the things you can do with GitPoint:
-
-* View user activity feed
-* Communicate on your issue and pull request conversations
-* Close or lock issues
-* Apply labels and assignees
-* Review and merge pull requests
-* Create new issues
-* Star, watch and fork repositories
-* Control your unread and participating notifications
-* Easily search for any user or repository
+- **Contrast Ratio Calculation:** Our app calculates the contrast ratio between background and foreground colors to ensure text is legible for seniors.
+- **WCAG Guidelines:** We adhere to Web Content Accessibility Guidelines (WCAG) for text readability.
+- **Real-time Updates:** See instant contrast ratio results as you select colors.
+- **Accessibility Recommendations:** Get immediate feedback on whether your color choices meet WCAG standards.
+- **User-Friendly Interface:** The app offers an intuitive and straightforward user interface.
 
 <p align="center">
   <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
@@ -77,48 +73,24 @@ A few of the things you can do with GitPoint:
 
 ## Feedback
 
-Feel free to send us feedback on [Twitter](https://twitter.com/gitpointapp) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
-
-If there's anything you'd like to chat about, please feel free to join our [Gitter chat](https://gitter.im/git-point)!
-
-## Contributors
-
-This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
+We value your input! To make our app even better, we encourage you to provide feedback. Whether you've encountered a bug, have a feature request, or want to share your experiences, your feedback is crucial to our ongoing development. Please reach out to us through our website's contact form or email us at jdenkim@outlook.com.
 
 ## Build Process
 
-- Follow the [React Native Guide](https://facebook.github.io/react-native/docs/getting-started.html) for getting started building a project with native code. **A Mac is required if you wish to develop for iOS.**
-- Clone or download the repo
-- `yarn` to install dependencies
-- `yarn run link` to link react-native dependencies
-- `yarn start:ios` to start the packager and run the app in the iOS simulator (`yarn start:ios:logger` will boot the application with [redux-logger](<https://github.com/evgenyrodionov/redux-logger>))
-- `yarn start:android` to start the packager and run the app in the the Android device/emulator (`yarn start:android:logger` will boot the application with [redux-logger](https://github.com/evgenyrodionov/redux-logger))
+The "Senior Contrast Checker" app was built using the latest web technologies and development tools. Our development process follows these key steps:
 
-Please take a look at the [contributing guidelines](./CONTRIBUTING.md) for a detailed process on how to build your application as well as troubleshooting information.
-
-**Development Keys**: The `CLIENT_ID` and `CLIENT_SECRET` in `api/index.js` are for development purposes and do not represent the actual application keys. Feel free to use them or use a new set of keys by creating an [OAuth application](https://github.com/settings/applications/new) of your own. Set the "Authorization callback URL" to `gitpoint://welcome`.
-
-## Backers [![Backers on Open Collective](https://opencollective.com/git-point/backers/badge.svg)](#backers)
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/git-point#backer)]
-
-<a href="https://opencollective.com/git-point#backers" target="_blank"><img src="https://opencollective.com/git-point/backers.svg?width=890"></a>
-
-## Sponsors [![Sponsors on Open Collective](https://opencollective.com/git-point/sponsors/badge.svg)](#sponsors)
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/git-point#sponsor)]
-
-<a href="https://opencollective.com/git-point/sponsor/0/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/1/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/2/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/3/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/4/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/5/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/6/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/7/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/8/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/git-point/sponsor/9/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/9/avatar.svg"></a>
+- **Conceptualization:** We defined the app's purpose and objectives.
+- **Design:** The design phase involved creating a user-friendly interface with an emphasis on accessibility.
+- **Development:** Our development team brought the design to life, implementing real-time contrast ratio calculations.
+- **Testing:** Extensive testing was conducted to ensure accurate results.
+- **Deployment:** The app is now live and accessible to users worldwide.
 
 ## Acknowledgments
 
-Thanks to [JetBrains](https://www.jetbrains.com) for supporting us with a [free Open Source License](https://www.jetbrains.com/buy/opensource).
+Finally, we'd like to thank everyone who has been a part of this journey, from our contributors and backers to our users who inspire us to continuously improve digital accessibility for seniors. Your support and feedback drive our commitment to creating a more inclusive digital world.
+
+Thank you for joining us on this mission to enhance digital accessibility for seniors using the "Senior Contrast Checker" app. Together, we can make the web a more inclusive place for all.
+
+
+
+https://www.readme-templates.com/#introduction
