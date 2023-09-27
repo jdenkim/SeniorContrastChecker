@@ -10,13 +10,12 @@
 <p align="center">
   Built with Xcode 15.0 beta 7 (15A5229h).
 </p>
-
 <p align="center">
 Experience it on MacOS, iOS, and VisionOS.
 </p>
 
-<p align="center">
 
+<p align="center">
   <a href="https://apps.apple.com/us/app/seniorcontrastchecker/id6466521008?mt=12">
     <img alt="Download on the Mac App Store" title="MacOS" src="http://i.imgur.com/0n2zqHD.png" height="50">
   </a>
