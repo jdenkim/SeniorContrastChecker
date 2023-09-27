@@ -52,7 +52,7 @@ Welcome to the "Senior Contrast Checker" documentation. This document provides a
 **Available for both MacOS, iOS and VisionOS.**
 
 <p align="center">
-  <img src = "https://github.com/jdenkim/SeniorContrastChecker-MacOS-iOS-VisionOS/blob/main/SeniorContrastChecker/iOSScreenshot-16.png" width=1068>
+  <img src = "https://github.com/jdenkim/SeniorContrastChecker-MacOS-iOS-VisionOS/blob/main/SeniorContrastChecker/Screenshot-15.png" width=1068>
 </p>
 
 ## Features
@@ -64,11 +64,15 @@ Welcome to the "Senior Contrast Checker" documentation. This document provides a
 - **User-Friendly Interface:** The app offers an intuitive and straightforward user interface.
 
 <p align="center">
-  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
+  <img src = "https://github.com/jdenkim/SeniorContrastChecker-MacOS-iOS-VisionOS/blob/main/SeniorContrastChecker/Screenshot-17.png" width=700>
 </p>
 
 <p align="center">
-  <img src = "http://i.imgur.com/0iorG20.png" width=700>
+  <img src = "https://github.com/jdenkim/SeniorContrastChecker-MacOS-iOS-VisionOS/blob/main/SeniorContrastChecker/Screenshot-16.png" width=700>
+</p>
+
+<p align="center">
+  <img src = "https://github.com/jdenkim/SeniorContrastChecker-MacOS-iOS-VisionOS/blob/main/SeniorContrastChecker/Screenshot-18.png" width=700>
 </p>
 
 ## Feedback
