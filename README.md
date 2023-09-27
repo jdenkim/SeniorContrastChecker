@@ -52,7 +52,7 @@ Welcome to the "Senior Contrast Checker" documentation. This document provides a
 **Available for both MacOS, iOS and VisionOS.**
 
 <p align="center">
-  <img src = "https://github.com/jdenkim/SeniorContrastChecker-MacOS-iOS-VisionOS/blob/main/SeniorContrastChecker/iOSScreenshot-15.png" width=1068>
+  <img src = "https://github.com/jdenkim/SeniorContrastChecker-MacOS-iOS-VisionOS/blob/main/SeniorContrastChecker/iOSScreenshot-16.png" width=1068>
 </p>
 
 ## Features
