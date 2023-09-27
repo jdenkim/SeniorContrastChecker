@@ -8,7 +8,11 @@
 
  
 <p align="center">
-  Built with Xcode 15.0 beta 7 (15A5229h). Experience it on MacOS, iOS, and VisionOS.
+  Built with Xcode 15.0 beta 7 (15A5229h).
+</p>
+
+<p align="center">
+Experience it on MacOS, iOS, and VisionOS.
 </p>
 
 <p align="center">
