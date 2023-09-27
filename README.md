@@ -85,7 +85,7 @@ The "Senior Contrast Checker" app was built using the latest web technologies an
 - **Testing:** Extensive testing was conducted to ensure accurate results.
 - **Deployment:** The app is now live and accessible to users worldwide.
 
-For a more in-depth understanding of our development process and to explore further insights, please visit our website at [https://www.jdenkim.com](https://medium.com/@jdenkim/creative-coding-2f56e789a658).
+For a more in-depth understanding of our development process and to explore further insights, please visit our website at https://medium.com/@jdenkim/creative-coding-2f56e789a658.
 
 ## Acknowledgments
 
