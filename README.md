@@ -85,6 +85,8 @@ The "Senior Contrast Checker" app was built using the latest web technologies an
 - **Testing:** Extensive testing was conducted to ensure accurate results.
 - **Deployment:** The app is now live and accessible to users worldwide.
 
+For a more in-depth understanding of our development process and to explore further insights, please visit our website at [https://www.jdenkim.com](https://medium.com/@jdenkim/creative-coding-2f56e789a658).
+
 ## Acknowledgments
 
 Finally, we'd like to thank everyone who has been a part of this journey, from our contributors and backers to our users who inspire us to continuously improve digital accessibility for seniors. Your support and feedback drive our commitment to creating a more inclusive digital world.
@@ -93,4 +95,4 @@ Thank you for joining us on this mission to enhance digital accessibility for se
 
 
 
-https://www.readme-templates.com/#introduction
+<!--https://www.readme-templates.com/#introduction-->
