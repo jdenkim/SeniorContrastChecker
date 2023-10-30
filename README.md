@@ -50,7 +50,7 @@ Experience it on MacOS, iOS, and VisionOS.
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
 [![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)-->
 
-Welcome to the "Senior Contrast Checker" documentation. This document provides an in-depth look at our app, designed to ensure web and app content is accessible and readable for the broader senior population. In this guide, you'll discover the app's features, learn how to use it effectively, and find information on how to contribute and provide feedback. We appreciate your interest in improving digital accessibility for seniors.
+Welcome to the "Senior Contrast Checker" documentation. This document provides an in-depth look at the app, designed to ensure web and app content is accessible and readable for the broader senior population. In this guide, you'll discover the app's features, learn how to use it effectively, and find information on how to contribute and provide feedback. I appreciate your interest in improving digital accessibility for seniors.
 
 **Available for both MacOS, iOS and VisionOS.**
 
@@ -80,7 +80,7 @@ Welcome to the "Senior Contrast Checker" documentation. This document provides a
 
 ## Feedback
 
-We value your input! To make our app even better, we encourage you to provide feedback. Whether you've encountered a bug, have a feature request, or want to share your experiences, your feedback is crucial to our ongoing development. Please reach out to us through our website's contact form or email us at jdenkim@outlook.com.
+I value your input! To make this app even better, I encourage you to provide feedback. Whether you've encountered a bug, have a feature request, or want to share your experiences, your feedback is crucial to our ongoing development. Please reach out to me through our website's contact form or email us at jdenkim@outlook.com.
 
 ## Build Process
 
@@ -92,13 +92,13 @@ The "Senior Contrast Checker" app was built using the latest web technologies an
 - **Testing:** Extensive testing was conducted to ensure accurate results.
 - **Deployment:** The app is now live and accessible to users worldwide.
 
-For a more in-depth understanding of our development process and to explore further insights, please visit our website at https://medium.com/@jdenkim/creative-coding-2f56e789a658.
+For a more in-depth understanding of our development process and to explore further insights, please visit my documentation at https://medium.com/@jdenkim/creative-coding-2f56e789a658.
 
 ## Acknowledgments
 
-Finally, we'd like to thank everyone who has been a part of this journey, from our contributors and backers to our users who inspire us to continuously improve digital accessibility for seniors. Your support and feedback drive our commitment to creating a more inclusive digital world.
+Finally, I would like to thank everyone who has been a part of this journey, from my professors and mentors to my users who inspire me to continuously improve digital accessibility for seniors. Your support and feedback drive my commitment to creating a more inclusive digital world.
 
-Thank you for joining us on this mission to enhance digital accessibility for seniors using the "Senior Contrast Checker" app. Together, we can make the web a more inclusive place for all.
+Thank you for joining me on this mission to enhance digital accessibility for seniors using the "Senior Contrast Checker" app. Together, I can make the web a more inclusive place for all.
 
 
 
